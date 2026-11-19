@@ -1,9 +1,7 @@
-name: Actualizar Perfil Metrics
+name: Update Profile Metrics
 on:
   schedule:
-    # Se ejecuta automáticamente todos los días a las 00:00 UTC
     - cron: "0 0 * * *"
-  # Permite ejecutarlo manualmente cuando quieras
   workflow_dispatch:
 
 jobs:
@@ -12,10 +10,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: ${{ github.repository_owner }}
+          user: LEMON-TANGERINE
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Madrid
