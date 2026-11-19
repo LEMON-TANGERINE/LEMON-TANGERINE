@@ -6,4 +6,4 @@
   <img src="./lemon_tangerine.webp" width="500" />
 </p>
 
-![Mis estadísticas de GitHub](/github-metrics.svg)
+![Mis estadísticas de GitHub](github-metrics.svg)
