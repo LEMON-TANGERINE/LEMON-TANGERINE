@@ -6,7 +6,7 @@ on:
 
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     permissions:
       contents: write
     steps:
@@ -17,7 +17,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Madrid
-          plugin_lines: yes
+          config_output: svg
           plugin_languages: yes
           plugin_languages_limit: 6
           plugin_habits: yes
