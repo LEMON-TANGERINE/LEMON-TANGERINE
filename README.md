@@ -1,6 +1,6 @@
-<!-- Header: Dynamic animated typing banner with citrus glow -->
+﻿<!-- Header: Dynamic animated typing banner with citrus glow -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F4D03F&center=true&vCenter=true&width=500&lines=LEMON-TANGERINE;Clean+%2B+Minimalist+Code;Crafting+Modern+AI+%26+Systems" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F4D03F&center=true&vCenter=true&width=500&lines=LEMON-TANGERINE;Coding+Stuff" alt="Typing Banner" />
 </h1>
 
 <!-- Hero: Beloved Lemon & Tangerine Animation -->
@@ -9,18 +9,15 @@
 </p>
 
 <p align="center">
-  <em>Building secure, reliable, and high-performance software with a minimalist touch.</em>
+  <em>Building software and cool projects.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI_%26_Systems-F4D03F?style=for-the-badge&logoColor=0d1117&labelColor=0d1117" alt="Focus Badge" />
-  <img src="https://img.shields.io/badge/Aesthetic-Clean_%26_Minimalist-E67E22?style=for-the-badge&logoColor=0d1117&labelColor=0d1117" alt="Aesthetic Badge" />
+  <img src="https://img.shields.io/badge/Focus-AI_%26_Software_Products-F4D03F?style=for-the-badge&logoColor=0d1117&labelColor=0d1117" alt="Focus Badge" />
   <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=for-the-badge&logoColor=0d1117&labelColor=0d1117" alt="Status Badge" />
 </p>
 
 ---
-
-### ⚡ Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,tailwind,docker,git,linux,githubactions&theme=dark" alt="Tech Stack" />
@@ -41,7 +38,7 @@
 
 ---
 
-### 🐍 Contribution Journey
+### Contribution Journey
 
 <p align="center">
   <picture>
